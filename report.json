@@ -1,0 +1,23 @@
+{
+  "n_samples": 399290,
+  "n_systems": 39,
+  "n_phases": 120,
+  "random_split": {
+    "exact_match": 0.9276276351283844,
+    "jaccard": 0.9696829103806573
+  },
+  "holdout": {
+    "AL-CU-SI": {
+      "exact_match": 0.38443511375842204,
+      "jaccard": 0.6210575139146568
+    },
+    "AL-CU-MG": {
+      "exact_match": 0.4811445341159208,
+      "jaccard": 0.6841330398630471
+    },
+    "CU-MG-ZN": {
+      "exact_match": 0.40435185636922477,
+      "jaccard": 0.6553341139353727
+    }
+  }
+}
